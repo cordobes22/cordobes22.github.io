@@ -1,5 +1,3 @@
-
-
 document.getElementById("cambiar_color_pagina").addEventListener("click", function(){
     document.body.style.backgroundColor = "yellow";
 });
